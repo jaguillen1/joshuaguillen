@@ -1,4 +1,4 @@
-# joshuaguillen
+# joshua guillen's cal poly github
 ## projects:
 
 1. [retail analytics](https://linkmehere.com)
